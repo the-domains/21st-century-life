@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[21st Century Life]]></title>
-        <description><![CDATA[21st Century Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[21stCentury.Life]]></title>
+        <description><![CDATA[21stCentury.Life]]></description>
+        <link>https://thegrid.ai/21st-century-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 17:15:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 17:20:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/21st-century-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://images.unsplash.com/5/unsplash-kitsune-3.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=4c3dc35899cafc4fc8761cfda1ac5114">]]></description>
-            <link>undefinedcb2af98d-bbcf-4eb0-9842-649eff8d4f9b/index.html</link>
+            <title><![CDATA[Building an essentially digital life]]></title>
+            <description><![CDATA[<article><h1>Building an essentially digital life</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33b71217d3e7c090d56bd4913a4fd79401f5e3c9.jpg"></article>]]></description>
+            <link>https://unsplash.com/photos/1uxV8fAfhVM</link>
             <guid isPermaLink="false">cb2af98d-bbcf-4eb0-9842-649eff8d4f9b</guid>
-            <pubDate>Fri, 22 Apr 2016 17:15:35 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 17:20:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
