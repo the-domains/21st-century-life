@@ -4,7 +4,7 @@
         <description><![CDATA[21st Century Life]]></description>
         <link>http://21stcentury.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 18:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 18:50:38 GMT</lastBuildDate>
         <atom:link href="http://21stcentury.life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building an essentially digital life.]]></title>
@@ -12,6 +12,13 @@
             <link>https://unsplash.com/photos/CExxxv0mpdo</link>
             <guid isPermaLink="false">38031144-2d7d-4d2d-97d5-bc45a2bc7e66</guid>
             <pubDate>Fri, 22 Apr 2016 18:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who We Are]]></title>
+            <description><![CDATA[<article><h1>Who We Are</h1><p>21stCentury.Life is brings people and government together in the age of big data and social media. We are currently developing two projects: GovSimply: a platform for local governments and Friendr: a geolocation based mobile social app.</p></article>]]></description>
+            <link>http://21stcentury.life/who-we-are/index.html</link>
+            <guid isPermaLink="false">1743ed95-f618-4f76-9599-c7b7bb809b9b</guid>
+            <pubDate>Fri, 22 Apr 2016 18:50:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
