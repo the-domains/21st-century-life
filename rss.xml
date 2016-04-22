@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[21st Century Life]]></title>
+        <description><![CDATA[21st Century Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Apr 2016 17:15:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://images.unsplash.com/5/unsplash-kitsune-3.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=4c3dc35899cafc4fc8761cfda1ac5114">]]></description>
+            <link>undefinedcb2af98d-bbcf-4eb0-9842-649eff8d4f9b/index.html</link>
+            <guid isPermaLink="false">cb2af98d-bbcf-4eb0-9842-649eff8d4f9b</guid>
+            <pubDate>Fri, 22 Apr 2016 17:15:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
