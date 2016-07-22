@@ -1,7 +1,7 @@
 name: 21st Century Life
 favicon: null
 layout_spectrum: 0.3938778380397707
-typography_spectrum: 0.79865
+typography_spectrum: 0.8927998926956207
 title: 21st Century Life
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#c2c18a'
-    - '#4b343e'
-    - '#5a7e71'
-    - '#b2884f'
-  brandStrength: 0.25
-  lightness: 0.6875
-  saturation: 0.2927394330035895
-  rhythmicContrast: 0.8507358198985457
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.1150424387305975
+  lightness: 0.34489492629654706
+  saturation: 0.4778458948712796
+  rhythmicContrast: 0.6265046093612909
 purpose: []
