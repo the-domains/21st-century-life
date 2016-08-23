@@ -1,20 +1,4 @@
-name: 21st Century Life
-favicon: null
-layout_spectrum: 0.3938778380397707
 typography_spectrum: 0.8927998926956207
-title: 21st Century Life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76783061-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B9121B'
@@ -26,4 +10,20 @@ color:
   lightness: 0.34489492629654706
   saturation: 0.4778458948712796
   rhythmicContrast: 0.6265046093612909
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3938778380397707
+analytics:
+  google: UA-76783061-1
+  facebook: null
+  twitter: null
+name: 21st Century Life
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
